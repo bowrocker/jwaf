@@ -1,6 +1,6 @@
 ## JWAF
 
-Rust sample web appliction framework.
+Rust sample web application firewall.
 
 ### platform
 

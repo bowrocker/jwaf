@@ -1,7 +1,5 @@
 // Copyright 2020, Jon Anderson
 //
-// This is a coding exercise for use in the interview process at ThreatX, Inc.
-//
 use jwaf::proxy::start_server;
 use std::env;
 
